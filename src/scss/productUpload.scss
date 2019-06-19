@@ -1,0 +1,14 @@
+.productUpload{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+  align-content: center;
+  justify-content: center;
+  background-color: #f1f1f1;
+  width: 400px;
+  height: 500px;
+  form{
+    margin: 20px;
+  }
+}
